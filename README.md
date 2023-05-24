@@ -221,6 +221,7 @@ I would like to thank Microvesre and Scrimba who helped alot during my coding jo
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
+this design made by Cindy Shin https://www.behance.net/adagio07
 
 This project is [Creative Commons](./cc.md) licensed.
 
