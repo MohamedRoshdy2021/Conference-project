@@ -124,13 +124,14 @@ a {
 
 .cards {
   display: flex;
-  min-width: 372px;
+  width: 90%;
   align-items: center;
   text-align: center;
   background-color: #41444b;
   min-height: 88px;
   gap: 1rem;
   padding: 0 0.8em;
+  margin: 0 auto;
 }
 
 .main-program-h2 {
