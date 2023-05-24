@@ -2,31 +2,31 @@ const speakers = [
   {
     name: 'Glen Hiemstra',
     title: 'Recognized futurist and successful author preparing people.',
-    image: 'images/base/speaker1.JPG',
+    image: 'images/base/speaker1.png',
     description: 'speaker Glen Hiemstra, a recognized futurist, discussed the inevitability and the consequences of the internet, global warming.',
   },
   {
     name: 'Jonathan Foley',
     title: 'Dr.Jonathan is expert in climate solutions and sustainability',
-    image: 'images/base/speaker2.JPEG',
+    image: 'images/base/speaker2.png',
     description: 'He is the Executive Director of Project Drawdown and has published extensively in the field. He is communicator and has awards ',
   },
   {
     name: 'Ben Fogle',
     title: 'As a globetrotting adventurer, Ben inspires audiences to live adventurous life',
-    image: 'images/base/speaker3.JPG',
+    image: 'images/base/speaker3.png',
     description: 'With experience traveling from Antartica to exotic destinations, he offers listeners a global lens to view the world ',
   },
   {
     name: 'Dr. Roger Harrabin',
     title: 'Roger Harrabin is one of the medias most influential voices on the environment',
-    image: 'images/base/speaker4.JPG',
+    image: 'images/base/speaker4.png',
     description: 'energy and climate change. As Energy and Environment Analyst he reported for the BBC for over 30 years',
   },
   {
     name: 'Levison Wood',
     title: 'Levison is a British icon with many hats an explorer photographer autho etc',
-    image: 'images/base/speaker5.JPG',
+    image: 'images/base/speaker5.png',
     description: 'A respectable adventurer Levison Wood is a person with the ability to transfer global adventures to leading TV specials',
   },
   {
