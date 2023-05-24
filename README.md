@@ -208,9 +208,9 @@ If you like this project don't forgt to give a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+this design made by Cindy Shin
+ https://www.behance.net/adagio07
 
-I would like to thank Microvesre and Scrimba who helped alot during my coding journey
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,7 +221,6 @@ I would like to thank Microvesre and Scrimba who helped alot during my coding jo
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-this design made by Cindy Shin https://www.behance.net/adagio07
 
 This project is [Creative Commons](./cc.md) licensed.
 
