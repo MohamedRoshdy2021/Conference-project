@@ -102,7 +102,7 @@ a {
 
 .hero-cont p {
   font-size: 1rem;
-  color: var(--secondary-color);
+  color: var(--third-color);
   width: fit-content;
   background-color: #fff;
   line-height: 1.5rem;
@@ -126,7 +126,7 @@ a {
 }
 
 .hero-cont2 h3 {
-  color: var(--secondary-color);
+  color: var(--third-color);
   width: fit-content;
   background-color: #fff;
 }
