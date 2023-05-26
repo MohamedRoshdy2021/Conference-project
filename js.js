@@ -1,4 +1,4 @@
-const speakers = [
+const speaker = [
   {
     name: 'Glen Hiemstra',
     title: 'Recognized futurist and successful author preparing people.',
@@ -42,7 +42,7 @@ const nav = document.querySelector('.nav-list');
 const close = document.querySelector('.close');
 const more = document.querySelector('#more-speaker');
 const morespeakers = document.querySelector('.more-speakers');
-const featuerd = document.querySelector('.featuerd-speakers');
+const featuer = document.querySelector('.featuerd-speakers');
 
 speakers.forEach((param) => {
   const div = document.createElement('div');
